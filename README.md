@@ -24,7 +24,7 @@ Honestly? Mostly because I love the original game and wanted to see if I could r
 
 Just like the spirit of the original browser game, this Python version is totally open source. The main code is right there in `city.py`. Feel free to look at it, learn from it, maybe even improve it if you feel like it! No guarantees the code is *good*, but it's there!
 
-if you dont like python, the compiled version is coming soon.
+[Click here to see the compiled version!](https://github.com/muhamadalfian20892/City-clicker-python/releases/tag/v1.0.0)
 
 **How to Play (Probably)**
 
